@@ -1,4 +1,1 @@
-take the input n
-formula is n*(n+1) * (2*n+1))/6
-here n = 3
-so 3 * (3+1) * (2*3+1))/6
+
